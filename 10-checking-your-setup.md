@@ -8,7 +8,7 @@ to verify it is done correctly.
 To run this script, simply open a terminal and run this command:
 
 ```shell
-curl -s https://raw.githubusercontent.com/C9DevLegends/setup-checker/main/run.sh | bash
+curl -s https://raw.githubusercontent.com/C9DevLegends/setup-checker/master/run.sh | bash
 ```
 
 This command will download a script from our github page and if your setup is correct
