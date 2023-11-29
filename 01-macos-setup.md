@@ -14,22 +14,17 @@ You need a mac running macOS Mojave or newer to follow these instructions.
 
 Install all of these pieces, in order:
 
-1. [Google Chrome]
-2. [Visual Studio Code]
-3. [Homebrew]
-4. [Node.JS]
-5. [Python]
-6. [Docker]
+- [Google Chrome]
+- [Visual Studio Code]
+- [Homebrew]
+- [Node.JS]
+- [Python]
+- [Docker]
+- [Apple Silicon addendum]
 
 > Note: Even if you have some of the software listed above already installed, it
 > is still necessary to read through all of the instructions. You may need to
 > upgrade to a new software version, or change some configurations.
-
-## Video
-
-Watch this video walkthrough of the macOS Setup:
-
-[macOS Setup]
 
 [Apple Silicon addendum]: 11-apple-silicon-mac-addendum.md
 [Google Chrome]: 04-google-chrome-setup.md
