@@ -8,11 +8,11 @@ You must be running the latest LTS release of Ubuntu which is 22.04.
 
 Install these pieces in this order:
 
-1. [Google Chrome]
-2. [Visual Studio Code]
-3. [Node.JS]
-4. [Python]
-5. [Docker]
+- [Google Chrome]
+- [Visual Studio Code]
+- [Node.JS]
+- [Python]
+- [Docker]
 
 > Note: Even if you have some of the software listed above already installed, it
 > is still necessary to read through all of the instructions. You may need to
