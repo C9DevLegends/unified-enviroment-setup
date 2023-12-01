@@ -14,7 +14,7 @@ If your system doesn't meet these requirements, or if you encounter difficulties
 
 ## Installing WSL 2
 
-While future Windows versions will have an automated WSL installer, the current process requires manual installation. Follow the instructions in the [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install) to install WSL 2 and Ubuntu Linux.
+While future Windows versions will have an automated WSL installer, the current process requires manual installation. Follow the instructions in the [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install) to install WSL 2 and [Ubuntu Linux](https://linuxsimply.com/linux-basics/os-installation/wsl/ubuntu-on-wsl2/).
 
 ## Tips for WSL Usage
 
